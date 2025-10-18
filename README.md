@@ -1,11 +1,11 @@
-****Password Strength Analysis ****
+**Password Strength Analysis**
 
-**Overview
-**
+**Overview**
+
 This project explores the key factors influencing password strength through data analysis, visualization, and computational modeling. Using real-world breach data and a custom-built password strength checker, the team evaluated how length, complexity, and unique characters affect password resilience.
 
-**Key Objectives
-**
+**Key Objectives**
+
 Identify which password characteristics most significantly impact strength.
 
 Compare the effectiveness of longer, simpler passwords versus shorter, complex ones.
